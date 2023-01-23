@@ -1,7 +1,7 @@
 ### Hi! I'm Francisco Mateus 👋
 
 #### About
-I'm a Front-end developer 🧑‍💻
+I'm a Junior Fullstack Developer 🧑‍💻
 
 Studying at [Unifor](https://www.unifor.br/) and [Rocketseat](https://www.rocketseat.com.br/)
 
