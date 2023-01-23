@@ -10,7 +10,7 @@ Studying at [Unifor](https://www.unifor.br/) and [Rocketseat](https://www.rocket
 - `CSS`
 - `Javascript`
 - `Git & Github`
-- Nodejs and React `coming soon`
+- `Nodejs and React`
 
 #### Contact 📩
 - Email: fmfr@outlook.com
