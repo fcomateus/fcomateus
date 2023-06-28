@@ -6,11 +6,12 @@ I'm a Junior Fullstack Developer 🧑‍💻
 Studying at [Unifor](https://www.unifor.br/) and [Rocketseat](https://www.rocketseat.com.br/)
 
 #### Technologies 🖥
-- `HTML`
-- `CSS`
-- `Javascript`
+- `React`
+- `Node.js`
+- `Express`
+- `Relational DB (PostgreSQL, SQLite)`
 - `Git & Github`
-- `Nodejs and React`
+
 
 #### Contact 📩
 - Email: fmfr@outlook.com
